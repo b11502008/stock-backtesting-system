@@ -2,6 +2,8 @@
 
 A **multi-strategy stock backtesting system GUI tool** built with Python and PySide6. It supports simulating and evaluating stock trading strategies based on MA (Moving Average), KD indicators, and Bollinger Bands, with visualization features for comparing strategy performance against the Taiwan Weighted Index ETF (0050).
 
+**I served as the frontend–backend integration developer, bridging the GUI with the core backtesting logic and implementing the data flow, strategy configuration, and performance visualization.**
+
 ---
 
 ## 🚀 Features
